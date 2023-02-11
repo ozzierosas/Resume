@@ -1,6 +1,4 @@
 # Ozzie Rosas
-
-## Contact Information
 - Email: ozzie.rosas@gmail.com
 - Phone: 909-274-0475  
 - Location: West Covina, CA
@@ -12,7 +10,6 @@ Bringing ideas to life, working with teams, and always looking for new ways to i
 
 
 ## Work Experience
-
 ### Kommu - Los Angeles, CA
 **Full Stack Software Engineer** | Feb 2022 - Current
   - Developed an intuitive FAQ page utilizing React.JS and Bootstrap, empowering users to quickly navigate and find answers by filtering through various categories. The page is equipped with a convenient dropdown feature, enabling users to expand each question and view its answer with ease.
